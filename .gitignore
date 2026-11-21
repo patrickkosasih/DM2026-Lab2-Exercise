@@ -16,6 +16,7 @@ lab2_workspace/
 data/embeddings/
 DM2026-Lab2-AgentPipeline-Grading-Reference.ipynb
 DM2026-Lab2-Master-Grading-Reference.ipynb
+submission.csv
 
 # LAB 2 DEVIATION (2026-11-01): Lab 1 does not ignore `session_logs/`, and in
 # Lab 1 students push their logs to public forks as a result. The logs are
